@@ -77,3 +77,8 @@ nav>ul>li>a {
    display: inline;
    color: black;
 }
+
+.hero-section{
+    background-color: lightgray;
+    height: 100vh;
+}
