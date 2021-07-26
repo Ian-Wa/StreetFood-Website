@@ -40,3 +40,9 @@ body{
     bottom: -250px;
     right: 24%;
 }
+
+.navigation{
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+}
