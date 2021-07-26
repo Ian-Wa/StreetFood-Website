@@ -97,3 +97,10 @@ button{
     background-color:  #6CB840;
     color: white;
 } 
+
+.big-image > img{
+    position: absolute;
+    height: 280px;
+    right: 250px;
+    top: 250px;
+}
