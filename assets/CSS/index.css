@@ -46,3 +46,9 @@ body{
     display: flex;
     justify-content: space-around;
 }
+
+.logo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
