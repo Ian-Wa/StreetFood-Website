@@ -28,3 +28,15 @@ body{
     border-radius: 50%;
     position: absolute;
 }
+
+
+.circle-dashed{
+    position: absolute;
+    border-radius:50%;
+    width:500px;
+    height:500px;
+    border:1px dashed greenyellow;
+    z-index: 1;
+    bottom: -250px;
+    right: 24%;
+}
