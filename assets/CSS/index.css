@@ -17,3 +17,14 @@ body{
     overflow: hidden;
     position: relative;
 }
+
+.ellipse{
+    overflow: hidden;
+    height: 900px;
+    top: -500px;
+    width: 980px;
+    right: -90px;
+    background-color: #57af27;
+    border-radius: 50%;
+    position: absolute;
+}
