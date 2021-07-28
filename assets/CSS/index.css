@@ -157,3 +157,57 @@ button{
     font-size: 33px;
     color: #FFD77C;
 }
+
+.container2{
+    margin: 10px 70px;
+}
+
+.explore-menu{
+    background-color: #EAF3E4;
+    padding: 30px 0px;
+}
+
+.intro{
+    text-align: center;
+}
+
+.burger{
+    display: flex;
+    margin-top: 50px;
+
+}
+
+.burger img{
+    position: relative;
+    z-index: 1;
+}
+
+.food-items{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0px;
+    justify-content: space-between;
+    
+}
+
+#rect{
+    position: relative;
+    height: 120px;
+    width: 220px;
+    background-color: white;
+    border-radius: 0px 0px 30px 0px;
+   font-size: 10px;
+   left: -70px;
+   bottom: 13px;
+}
+
+#food-name{
+   margin-left: 10px;
+
+}
+
+#food-text{
+    max-width: 100px;
+    text-align: center;
+    margin-left: 80px;
+}
