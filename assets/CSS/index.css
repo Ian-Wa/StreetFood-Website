@@ -137,3 +137,23 @@ button{
     right: 250px;
     top: 250px;
 }
+
+.container1{
+    background-color: white;
+}
+
+.eat-together{
+    display: flex;
+
+}
+
+.eatTogether-text{
+    max-width: 400px;
+    text-align: center;
+    margin-top: 150px;
+}
+
+.eatTogether-text h2{
+    font-size: 33px;
+    color: #FFD77C;
+}
