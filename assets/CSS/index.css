@@ -246,3 +246,17 @@ button{
     background-color: #FFD77C;
     padding: 40px ;
 }
+
+.contact p{
+    max-width: 400px;
+    text-align: center;
+    margin-left: 320px;
+    margin-top: 40px;
+}
+
+input{
+    border-radius: 20px;
+    margin-top: 40px;
+    margin-left: 320px;
+    line-height: 2.5em;
+}
