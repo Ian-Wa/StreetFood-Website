@@ -211,3 +211,38 @@ button{
     text-align: center;
     margin-left: 80px;
 }
+
+.hotdeals{
+    background-color: #C9ECB5;
+    padding: 30px 0px;
+}
+
+.hotdeals-content{
+    display: flex;
+    margin-right: 0px;
+    padding: 0px;
+}
+
+.hotdeals-images{
+    display: flex;
+    max-width: 200px;
+    position: relative;
+    top: -130px;
+}
+
+.hotdeals-information{
+    max-width: 400px;
+    margin-left: 490px;
+    margin-top: 100px;
+}
+
+#six{
+    position: relative;
+     left: -340px;
+     top: 270px; 
+}
+
+.contact{
+    background-color: #FFD77C;
+    padding: 40px ;
+}
