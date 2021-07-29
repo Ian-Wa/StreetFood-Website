@@ -260,3 +260,36 @@ input{
     margin-left: 320px;
     line-height: 2.5em;
 }
+
+footer{
+    display: flex;
+    background-color: #C9ECB5;
+    margin: 0px 70px;
+    padding: 50px 20px;
+    margin-top: 40px;
+}
+
+.dotted-line{
+    border-left: 4px dotted green;
+    height: 120px;
+    margin-left: 40px;
+}
+
+.row2{
+    margin-left: 40px;
+    margin-top: 30px;
+}
+
+.row3{
+    margin-left: 360px;
+    margin-top: 30px;
+}
+
+.row4{
+    margin-left: 50px;
+    margin-top: 30px;
+}
+
+.row4 button{
+    border-radius: 0px;
+}
